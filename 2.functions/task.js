@@ -88,6 +88,9 @@ function makeWork(arrOfArr, func) {
 	};
 	return maxWorkerResult;
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 18415faa5f6a29d377c1939513c534f709d377f1
 }
 =======
 }
